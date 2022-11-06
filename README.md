@@ -1,6 +1,6 @@
 # face_tracking-with-mediapipe-and-blender
 
-To get the script running, you will need to install two Python libraries in Blender : opencv-python and mediapipe
+To get the script running, you will need to install three Python libraries in Blender : opencv-python, numpy and mediapipe
 
 Please refer to these pages :
 
